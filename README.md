@@ -8,3 +8,8 @@ If you use some form of automation such as [Obsidian to Anki](https://github.com
 This script automates the process of rendering the cloze cards by simulating keyboard input, so that you don't have to manually render them.
 
 Dependencies: Linux, `Xdotool` (and therefore `X11`)
+
+### Steps to Use
+1. Open up Anki
+2. Open up the first cards of the deck you want to render the cloze cards for.
+3. Run the script `automate_anki_hidden_cloze.sh` in the terminal.
